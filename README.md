@@ -1,4 +1,4 @@
-<img src="pic/wide_banner.png?raw=true" id="Banner" width= 100%>
+<img src="/SuroWka-Roch/SuroWka-Roch/blob/master/pic/wide_banner.png?raw=true" id="Banner" width= 100%>
 
 # Wojciech Roch Surówka
 
