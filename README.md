@@ -1,4 +1,4 @@
-![banner](banner.png?raw=true)
+![banner](wide_banner.png?raw=true)
 
 # Wojciech Roch Surówka
 
