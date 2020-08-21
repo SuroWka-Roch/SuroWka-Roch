@@ -1,4 +1,21 @@
-### Hi there 👋
+
+# Wojciech Roch Surówka
+
+## Embedded Engineer
+
+Languages I'm familiar with:
+
+* Python3
+* C/C++
+* Java
+
+Technologies i'm faliliar with:
+
+* MQTT
+* FreeRTOS
+* ESP-IDF
+* LaTex
+* Arduino
 
 <!--
 **SuroWka-Roch/SuroWka-Roch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
