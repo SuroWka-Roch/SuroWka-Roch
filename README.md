@@ -1,4 +1,4 @@
-<img src="banner.png?raw=true" id="Banner" width= 100%>
+![banner](banner.png?raw=true)
 
 # Wojciech Roch Surówka
 
