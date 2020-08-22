@@ -18,6 +18,8 @@ Technologies i'm faliliar with:
 * LaTex
 * Arduino
 
+<img src="/SuroWka-Roch/SuroWka-Roch/blob/master/pic/wide_banner.png?raw=true" id="Banner" width= 100%>
+
 <!--
 **SuroWka-Roch/SuroWka-Roch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
