@@ -1,15 +1,6 @@
 # Wojciech Roch Surówka
 
-<style>
-div.flip {
-    transform: scaleX(-1);
-}
-</style>
-
-<div class="flip">
-    <img src="/SuroWka-Roch/SuroWka-Roch/blob/master/pic/wide_banner.png?raw=true" id="Banner" width= 100% scale= scaleX(-1)>
-</div>
-
+<img src="/SuroWka-Roch/SuroWka-Roch/blob/master/pic/wide_banner.png?raw=true" id="Banner" width= 100% scale= scaleX(-1)>
 
 ## Embedded Engineer
 
