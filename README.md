@@ -1,6 +1,6 @@
 # Wojciech Roch Surówka
 
-<img src="/SuroWka-Roch/SuroWka-Roch/blob/master/pic/wide_banner.png?raw=true" id="Banner" width= 100% scale= scaleX(-1)>
+<img src="https://raw.githubusercontent.com/SuroWka-Roch/SuroWka-Roch/master/pic/wide_banner.png" id="Banner" width= 100% scale= scaleX(-1)>
 
 ## Embedded Engineer
 
@@ -18,7 +18,7 @@ Technologies i'm faliliar with:
 * LaTex
 * Arduino
 
-<img src="/SuroWka-Roch/SuroWka-Roch/blob/master/pic/wide_banner.png?raw=true" id="Banner" width= 100%>
+<img src="https://raw.githubusercontent.com/SuroWka-Roch/SuroWka-Roch/master/pic/wide_banner.png" id="Banner" width= 100%>
 
 <!--
 **SuroWka-Roch/SuroWka-Roch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
