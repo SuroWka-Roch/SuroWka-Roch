@@ -9,6 +9,7 @@ Languages I'm familiar with:
 * Python3
 * C/C++
 * Java
+* Matlab
 
 Technologies i'm faliliar with:
 
@@ -17,6 +18,7 @@ Technologies i'm faliliar with:
 * ESP-IDF
 * LaTex
 * Arduino
+* 5G
 
 <img src="https://raw.githubusercontent.com/SuroWka-Roch/SuroWka-Roch/master/pic/wide_banner.png" id="Banner" width= 100%>
 
